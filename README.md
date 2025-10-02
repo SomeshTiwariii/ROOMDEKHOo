@@ -85,7 +85,6 @@ POST	/api/rooms	Add a new room listing
 GET	/api/rooms/:id	Fetch a single room detail
 📸 Screenshots
 
-Add screenshots of UI here (Home, Residencies, Contact, etc.)
 
 🤝 Contribution
 
