@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Rajpur Heights Residency",
+    "price": "35000",
+    "detail": "Premium apartments located at Rajpur Road with a beautiful view of Mussoorie hills. Ideal for families and working professionals.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Clement Town Villa",
+    "price": "45000",
+    "detail": "Spacious villa near Graphic Era University, surrounded by greenery. Perfect for students and families alike.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Sahastradhara Greens",
+    "price": "28000",
+    "detail": "Modern apartments at Sahastradhara Road with scenic valley views and quick access to IT Park.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Jakhan Heights",
+    "price": "60000",
+    "detail": "Luxury high-rise apartments in Jakhan, close to Pacific Mall with premium amenities and rooftop gardens.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Premnagar Residency",
+    "price": "15000",
+    "detail": "Affordable student-friendly flats near IMA and Uttaranchal University with excellent connectivity.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Ballupur Residency",
+    "price": "32000",
+    "detail": "Elegant apartments in Ballupur with close access to schools, hospitals, and central market.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Dharampur Residency",
+    "price": "40000",
+    "detail": "Spacious independent houses in Dharampur with peaceful environment and excellent road connectivity.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Raipur Valley Homes",
+    "price": "27000",
+    "detail": "Affordable family homes in Raipur area surrounded by greenery and close to Doon IT Park.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Vasant Vihar Residency",
+    "price": "38000",
+    "detail": "Modern apartments in Vasant Vihar with landscaped gardens, gym, and play area.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Subhash Nagar Residency",
+    "price": "18000",
+    "detail": "Affordable flats with easy connectivity to railway station and ISBT Dehradun.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Race Course Residency",
+    "price": "42000",
+    "detail": "Premium apartments in Race Course area with top-class amenities and prime location.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Kargi Chowk Residency",
+    "price": "22000",
+    "detail": "Affordable housing society near Kargi Chowk with modern facilities.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Patel Nagar Apartments",
+    "price": "25000",
+    "detail": "Mid-range apartments in Patel Nagar with all daily amenities nearby.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Doon Vihar Residency",
+    "price": "70000",
+    "detail": "Luxurious gated community in Doon Vihar with clubhouse, gym, and 24/7 security.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Araghar Residency",
+    "price": "20000",
+    "detail": "Affordable flats in Araghar with good transport connectivity and local markets.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Majra Residency",
+    "price": "33000",
+    "detail": "Spacious independent houses in Majra with peaceful environment.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Karanpur Residency",
+    "price": "36000",
+    "detail": "Modern apartments near Clock Tower in Karanpur, prime central location.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Kaulagarh Residency",
+    "price": "31000",
+    "detail": "Family-friendly apartments in Kaulagarh Road with excellent amenities and peaceful locality.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Mussoorie Road Residency",
+    "price": "90000",
+    "detail": "Luxury villas located on Mussoorie Road with scenic hill views and premium facilities.",
+    "image": "./r1.png"
+  }
+]
